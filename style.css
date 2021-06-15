@@ -1,0 +1,18 @@
+body {
+  background: red;
+}
+
+.dice {
+  display: inline-block;
+  padding: 15px;
+background: white;
+font-size: 24px;
+border: 1px solid black;
+}
+.active {
+  box-shadow: -2px 8px rgb(22, 21, 21);
+}
+
+#resetBtn {
+  display: none;
+}
